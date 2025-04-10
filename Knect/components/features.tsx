@@ -36,16 +36,14 @@ export default function Features() {
           <div className="mx-auto max-w-3xl pb-4 text-center md:pb-12">
             <div className="inline-flex items-center gap-3 pb-3 before:h-px before:w-8 before:bg-gradient-to-r before:from-transparent before:to-indigo-200/50 after:h-px after:w-8 after:bg-gradient-to-l after:from-transparent after:to-indigo-200/50">
               <span className="inline-flex bg-gradient-to-r from-indigo-500 to-indigo-200 bg-clip-text text-transparent">
-                Advanced Controls
+                Advanced Solutions
               </span>
             </div>
             <h2 className="animate-[gradient_6s_linear_infinite] bg-[linear-gradient(to_right,theme(colors.gray.200),theme(colors.indigo.200),theme(colors.gray.50),theme(colors.indigo.300),theme(colors.gray.200))] bg-[length:200%_auto] bg-clip-text pb-4 font-nacelle text-3xl font-semibold text-transparent md:text-4xl">
-              Built for modern product teams
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, nulla.
             </h2>
             <p className="text-lg text-indigo-200/65">
-              Open AI reads and understands your files, and with nothing more
-              than a single line of feedback, so you can go further than the
-              speed of thought.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi ipsum, consequuntur recusandae a accusantium, quidem eos cum ad maiores officiis quas incidunt? Consectetur, iure necessitatibus! Vitae voluptatibus fuga harum reprehenderit?
             </p>
           </div>
           <div className="flex justify-center pb-4 md:pb-12" data-aos="fade-up">
@@ -76,8 +74,7 @@ export default function Features() {
                 Project Milestones
               </h3>
               <p className="text-indigo-200/65">
-                Track progress across custom flows for your team. Find the right
-                balance for the user, privacy and security.
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur in quod labore, cupiditate beatae id minus dignissimos autem quas laborum laboriosam nihil laudantium, eaque quis, voluptatum rem et ipsa. Ipsam!
               </p>
             </article>
             <article>
@@ -91,11 +88,10 @@ export default function Features() {
                 <path d="M19 6H0v2h17v8H7v-6H5v8h19v-2h-5V6Z" />
               </svg>
               <h3 className="mb-1 font-nacelle text-[1rem] font-semibold text-gray-200">
-                Team Views
+                Best App
               </h3>
               <p className="text-indigo-200/65">
-                Track progress across custom flows for your team. Find the right
-                balance for the user, privacy and security.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit voluptatum illo aspernatur sed. Necessitatibus tempore, incidunt possimus voluptatibus iste distinctio.
               </p>
             </article>
             <article>
@@ -115,8 +111,7 @@ export default function Features() {
                 Advanced Search
               </h3>
               <p className="text-indigo-200/65">
-                Track progress across custom flows for your team. Find the right
-                balance for the user, privacy and security.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et tenetur dolores eligendi minima rerum saepe, laudantium soluta iusto dolorem voluptatum.
               </p>
             </article>
             <article>

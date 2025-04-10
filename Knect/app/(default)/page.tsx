@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "ETTAIR",
+  title: "HyImagine Studios",
   description: "Page description",
 };
 
